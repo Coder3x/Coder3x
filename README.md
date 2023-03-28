@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Coder3x
 - 👀 I’m Sharepoint developer and intersted in modern javascript frameworks.
-- 🌱 I’m currently learning Agular
+- 🌱 I’m always learning
 - 💞️ I’m looking to collaborate on crazy projects ;)
-- 📫 You can reach me en twitter @MesfaouiMed or email (On Github :D)
+- 📫 You can reach me on twitter @MesfaouiMed or email (On Github :D)
